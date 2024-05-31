@@ -1,0 +1,1 @@
+Mój prosty projekt w Pythonie
